@@ -1,5 +1,7 @@
 # test files
-test/
+tests/
+test-*/
+test*.py
 
 # Python packages and compiled files
 __pycache__
