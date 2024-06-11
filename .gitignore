@@ -1,0 +1,5 @@
+# test files
+test/
+
+# Python packages and compiled files
+__pycache__
